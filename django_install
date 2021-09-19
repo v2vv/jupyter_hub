@@ -1,0 +1,23 @@
+item_name = item5
+app_name = app7
+install_path = /root/django
+
+
+all_is_ok: install_python3 install_django  add_item  add_app 
+	@echo "success" the path is $(install_path)”
+	@echo the path is $(install_path)”
+
+install_python3:
+	apt update
+	apt install python3  python3-pip
+
+install_django: 
+	pip3 install django
+apt
+add_app: 
+	cd $(install_path)/$(item_name); python manage.py startapp $(app_name)
+    
+add_item:
+	mkdir -p $(install_path); cd $(install_path); django-admin startproject $(item_name)
+
+    

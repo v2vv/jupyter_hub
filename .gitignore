@@ -1,0 +1,11 @@
+.cache
+.config
+.git
+.ipynb_checkpoints
+.ipython
+.jupyter
+.kite
+.local
+.npm
+.ssh
+opencv/core
