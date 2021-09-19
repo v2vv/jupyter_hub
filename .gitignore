@@ -1,11 +1,12 @@
-.cache
-.config
-.git
-.ipynb_checkpoints
-.ipython
-.jupyter
-.kite
-.local
-.npm
-.ssh
-opencv/core
+/.cache/
+/.config/
+/.git/
+/.ipynb_checkpoints/
+/.ipython/
+/.jupyter/
+/.kite/
+/.local/
+/.npm/
+/.ssh/
+/opencv/core
+/Altium\ Designer\ 19\ PCB设计官方指南.pdf
