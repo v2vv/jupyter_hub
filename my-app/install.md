@@ -7,9 +7,6 @@
 - [scp commond](#scp-commond)
 - [makefile](#makefile)
 
-
-
-
 # jupyter
 
 # docker install jupyter lab
