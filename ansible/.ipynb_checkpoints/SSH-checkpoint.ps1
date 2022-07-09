@@ -11,7 +11,7 @@ ssh root@107.173.146.151
 YES
 ssh-copy-id -i .ssh/id_rsa.pub  root@107.173.146.15
 
-yyyyy
+yyyyy   ssh-copy-id -i .ssh/id_rsa.p
 
 #登入服务器
 Function vps ($ip,$passwd)
