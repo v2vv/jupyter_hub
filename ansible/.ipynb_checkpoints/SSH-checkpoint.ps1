@@ -46,4 +46,4 @@ cat yy.txt
 apt install nginx 
 
 scp C:\Users\Mr.Stark\.ssh\id_rsa.pub root@122.51.221.67:/root/.ssh/authorized_keys
-cat "$publicKey" | ssh $args $userAtMachine "umask 077; test -d .ssh || mkdir .ssh ; cat >> .ssh/authorized_keys
+cat ""C:\Users\LvHongYuan\.ssh\id_rsa"" | ssh $args $userAtMachine "umask 077; test -d .ssh || mkdir .ssh ; cat >> .ssh/authorized_keys
