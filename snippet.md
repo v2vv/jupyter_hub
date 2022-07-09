@@ -37,7 +37,7 @@ coder对代码片段的评价褒贬不一，下面这张图解释了代码片段
 ## **代码片段语法**
 
 我们创建完成以后，会出现一个类似于JSON的语法，内容如下：
-```
+```josn
 {
 
   // Place your 全局 snippets here. Each snippet is defined under a snippet name and has a scope, prefix, body and 
