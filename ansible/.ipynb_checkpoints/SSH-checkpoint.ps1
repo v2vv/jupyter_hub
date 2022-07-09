@@ -4,31 +4,6 @@ KL3e1gTeiCS0f81Lc2
 echo "更新ssh连接"
 ssh-keygen -R $hostip
 echo "发送公钥至主机"
-ssh-copy-id $hostipsh-keygen -R $hostip
-echo "发送公钥至主机"
-ssh-copy-id $hostip
-ssh-keygen -R 107.173.146.151
-ssh-copy-id 107.173.146.151
-ssh root@107.173.146.151sh-keygen -R $hostip
-echo "发送公钥至主机"
-ssh-copy-id $hostip
-ssh-keygen -R 107.173.146.151
-ssh-copy-id 107.173.146.151
-ssh root@107.173.146.151sh-keygen -R $hostip
-echo "发送公钥至主机"
-ssh-copy-id $hostip
-ssh-keygen -R 107.173.146.151
-ssh-copy-id 107.173.146.151
-ssh root@107.173.146.151sh-keygen -R $hostip
-echo "发送公钥至主机"
-ssh-copy-id $hostip
-ssh-keygen -R 107.173.146.151
-ssh-copy-id 107.173.146.151
-ssh root@107.173.146.151
-ssh-keygen -R 107.173.146.151
-ssh-copy-id 107.173.146.151
-ssh root@107.173.146.151sh-keygen -R $hostip
-echo "发送公钥至主机"
 ssh-copy-id $hostip
 ssh-keygen -R 107.173.146.151
 ssh-copy-id 107.173.146.151
