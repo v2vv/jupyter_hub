@@ -11,7 +11,9 @@ ssh root@107.173.146.151
 YES
 ssh-copy-id -i .ssh/id_rsa.pub  root@107.173.146.15
 
-yyyyy   ss
+ssh
+ssh-keygen -t rsa -b 4096 -f .ssh/id_rsa-remote-ssh
+ssh-copy-id -i .ssh/id_rsa-remote-ssh root@107.173.146.151
 
 #登入服务器
 Function vps ($ip,$passwd)
