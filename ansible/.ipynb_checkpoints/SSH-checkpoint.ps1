@@ -7,6 +7,11 @@ echo "发送公钥至主机"
 ssh-copy-id $hostip
 ssh-keygen -R 107.173.146.151
 ssh-copy-id 107.173.146.151
+ssh root@107.173.146.151sh-keygen -R $hostip
+echo "发送公钥至主机"
+ssh-copy-id $hostip
+ssh-keygen -R 107.173.146.151
+ssh-copy-id 107.173.146.151
 ssh root@107.173.146.151
 YES
 ssh-copy-id -i .ssh/id_rsa.pub  root@107.173.146.15
