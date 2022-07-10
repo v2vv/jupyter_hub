@@ -12,7 +12,7 @@ usermod 选项 用户名
 
 mkdir -p dirName 创建目录
 -p 确保目录名称存在，不存在的就建一个。
-##### ff
+
 
 react 单页应用
 npx create-react-app my-app
