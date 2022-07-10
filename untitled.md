@@ -207,11 +207,11 @@ do
 done
 ```
 ## 9.4 误 commit 大文件
-
+```
 git rm \--cached giant\_file
 git commit \--amend \-CHEAD
 git push origin
-
+```
 ## 10.1 fatal: Unable to create '\*\*\*/.git/index.lock': File exists.
 
 完整异常信息如下所示
