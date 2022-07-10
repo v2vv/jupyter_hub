@@ -12,7 +12,7 @@ static void Thread1(){
 
 # 委托与回调
     delegate
-[]
+[]()
 
 # 嵌套类 包含类 
 
