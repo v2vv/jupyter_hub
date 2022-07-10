@@ -1,7 +1,8 @@
 # 线程
 
 
-```Thread thread1 = new Thread(new ThreadStart(Thread1));
+```
+Thread thread1 = new Thread(new ThreadStart(Thread1));
 thread1.Start();
 static void Thread1(){
 
