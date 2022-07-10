@@ -207,7 +207,7 @@ do
 done
 ```
 ## 9.4 误 commit 大文件
-```bash
+```git
 git rm \--cached giant\_file
 git commit \--amend \-CHEAD
 git push origin
