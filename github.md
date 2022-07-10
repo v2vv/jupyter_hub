@@ -9,3 +9,4 @@
 - [clash_for_windows](https://github.com/Fndroid/clash_for_windows_pkg)
 
 ![image](https://github.com/v2vv/jupyter_hub/raw/master/images/Sun_Jul_10_2022_1657450118708.png)
+![](https://cdn.jsdelivr.net/gh/v2vv/images@master/20220710191905.png)
