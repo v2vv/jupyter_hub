@@ -1,3 +1,4 @@
 # Hello
 
 [[work.md]]
+[[]]
