@@ -27,4 +27,4 @@ V8 提供了执行 JavaScript 的运行时环境。 DOM 和其他 Web 平台 API
 V8 于 2009 年被选为为 Node.js 提供支持的引擎，并且随着 Node.js 的爆炸性发展，V8 成为了现在为大量的服务器端代码（使用 JavaScript 编写）提供支持的引擎。
 JavaScript 是由 V8 在其内部编译的，使用了即时（JIT）编译以加快执行速度。编译 JavaScript 非常有意义，因为尽管可能需要多花费一点时间来为 JavaScript 做准备，但是一旦完成，则它会比纯解释型的代码具有更高的性能。
 
-![image](https://github.com/v2vv/jupyter_hub/raw/master/images/Sun_Jul_10_2022_1657454192915.png)
+![image](<https://github.com/v2vv/jupyter_hub/raw/master/images/Sun_Jul_10_2022_1657454192915.png)
