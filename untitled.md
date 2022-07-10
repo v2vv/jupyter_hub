@@ -142,10 +142,7 @@ core.safecrlf
 
 This is the version 1
 <<<<<<< HEAD
-本地你的修改内容
-=======
-远程其他人提交的内容
->>>>>>> SHA code
+
 
 需要在编辑器中合并完修改后，使用 git add 命令提交。
 
