@@ -11,6 +11,7 @@ static void Thread1(){
 
 ```
 
+
 # 委托与回调
     delegate
 
