@@ -2,7 +2,7 @@
 随机存取存储器
 - 静态RAM（Static RAM / SRAM），SRAM速度非常快，是目前读写最快的存储设备了，但是它也非常昂贵，所以只在要求很苛刻的地方使用，譬如CPU的一级缓冲，二级缓冲。
 - 动态RAM（Dynamic RAM / DRAM），DRAM保留数据的时间很短，速度也比SRAM慢，不过它还是比任何的ROM都要快，但从价格上来说DRAM相比SRAM要便宜很多，计算机内存就是DRAM的。
-[[]]
+[[nodejs-wiki]]
 # MTP
 mtp means multi time program
 MTP多是采用EEPROM或者FLASH或者别的什么。写过程也是1-0的变化。但是0在特定条件下可以变成1。如EPROM是在紫外线的照射下，形成光电荷冲入栅区。EEPROM是利用电隧道电荷注入技术。
