@@ -42,7 +42,7 @@ ssh root@107.173.146.151
 echo 'scp C:\Users\Mr.Stark\.ssh\id_rsa.pub root@107.173.146.151:/root/.ssh/authorized_keys' `
 'ssh root@107.173.146.151' >yy.txt
 cat yy.txt
-
+c
 apt install nginx 
 
 scp C:\Users\Mr.Stark\.ssh\id_rsa.pub root@122.51.221.67:/root/.ssh/authorized_keys
