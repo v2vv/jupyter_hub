@@ -1,3 +1,0 @@
-ggg
-hello
-echo hello
