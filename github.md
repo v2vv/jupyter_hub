@@ -8,4 +8,4 @@
 - [wiki](https://github.com/Dreamacro/clash/wiki)
 - [clash_for_windows](https://github.com/Fndroid/clash_for_windows_pkg)
 
-**Uploading image 271368...**
+![image](https://github.com/v2vv/jupyter_hub/raw/master/images/Sun_Jul_10_2022_1657450118708.png)
