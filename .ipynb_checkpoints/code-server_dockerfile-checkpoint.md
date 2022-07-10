@@ -4,7 +4,7 @@
 - 动态RAM（Dynamic RAM / DRAM），DRAM保留数据的时间很短，速度也比SRAM慢，不过它还是比任何的ROM都要快，但从价格上来说DRAM相比SRAM要便宜很多，计算机内存就是DRAM的。
 [[nodejs-wiki]]
 
-[[1.1 Git 的几个区/]]
+[[1.1 Git 的几个区/CGI]]
 
 # MTP
 mtp means multi time program
