@@ -7,5 +7,3 @@
 
 - [wiki](https://github.com/Dreamacro/clash/wiki)
 - [clash_for_windows](https://github.com/Fndroid/clash_for_windows_pkg)
-
-echo 
