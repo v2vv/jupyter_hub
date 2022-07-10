@@ -6,7 +6,7 @@
 # MTP
 mtp means multi time program
 MTP多是采用EEPROM或者FLASH或者别的什么。写过程也是1-0的变化。但是0在特定条件下可以变成1。如EPROM是在紫外线的照射下，形成光电荷冲入栅区。EEPROM是利用电隧道电荷注入技术。
-!
+
 # ROM
 这是一种线路最简单半导体电路，通过掩模工艺，一次性制造，其中的代码与数据将永久保存，不能进行修改。在微机的发展初期，BIOS都存放在ROM（Read Only Memory，只读存储器）中。如果发现内部数据有错，则只有舍弃不用，重新订做一份。
 # PROM (OTP)
