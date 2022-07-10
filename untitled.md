@@ -192,8 +192,8 @@ git status \-s | grep UU | cut \-d ' ' \-f 2 | xargs git checkout \--theirs
 git status \-s | grep UU | cut \-d ' ' \-f 2 | xargs git add 
 
 ## 9.3 更新一个 project 下的所有 repositories
-
-`folders\=$(ls)
+```
+folders\=$(ls)
 
 for f in ${folders}
 do
@@ -203,8 +203,8 @@ do
                 git pull origin
                 cd ..
         fi
-done`
-
+done
+```
 ## 9.4 误 commit 大文件
 
 git rm \--cached giant\_file
