@@ -12,4 +12,4 @@
 
 [[CGI]]
 
-#www.bai
+#www.baidu.com
