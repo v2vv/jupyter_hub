@@ -1,5 +1,5 @@
 # 线程
-#
+#ff
 
 ```c#
 Thread thread1 = new Thread(new ThreadStart(Thread1));
