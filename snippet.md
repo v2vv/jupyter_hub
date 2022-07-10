@@ -1,3 +1,5 @@
+
+
 VSCode中怎么定义代码片段？下面本篇文章给大家介绍一下给[VSCode](https://www.php.cn/tool/vscode/)定义代码片段的方法，让coding速度快到飞起，希望对大家有所帮助！
 
 ![](https://img.php.cn/upload/article/000/000/024/61d57cdd86cf3519.jpg)
