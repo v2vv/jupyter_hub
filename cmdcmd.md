@@ -1,4 +1,4 @@
-# 
+# cmd 语法
 ```cmd
 @echo off
 set "var1=some hopefully not important string"
