@@ -1,6 +1,7 @@
 # cmd 语法
-```ba't
-@echo off
+```cmd
+RE
+@echo off 
 set "var1=some hopefully not important string"
 echo call myDosFunc
 call:myDosFunc 13 14
