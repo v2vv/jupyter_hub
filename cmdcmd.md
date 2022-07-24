@@ -26,5 +26,6 @@ set a=1
 set /a res=%~1+%~2
 set "var1=%~1+%~2=%res%"
 set resVal=res is %res%
+REM 定义标签
 goto:eof
 ```
