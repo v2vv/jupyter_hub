@@ -1,6 +1,6 @@
 # cmd 语法
 ```cmd
-REM REM注释 ::可见输出
+REM REM注释 ::可见输出注释
 @echo off 
 set "var1=some hopefully not important string"
 echo call myDosFunc
