@@ -9,8 +9,6 @@ set "var1=some hopefully not important string"
 echo call myDosFunc
 
 call:myDosFunc 13 14
-
-
 echo return myDosFunc: %var1%
 echo %resVal%
 
