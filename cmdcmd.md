@@ -1,5 +1,5 @@
 # cmd 语法
-```cmd
+```ba't
 @echo off
 set "var1=some hopefully not important string"
 echo call myDosFunc
