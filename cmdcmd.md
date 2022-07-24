@@ -1,7 +1,6 @@
 # cmd 语法
 ```cmd
-REM REM注释 
-::可见输出注释
+REM REM注释 ::可见输出注释
 
 REM 关闭命令输出
 @echo off  
