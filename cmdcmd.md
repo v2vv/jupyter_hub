@@ -5,9 +5,7 @@ REM REM注释 ::可见输出注释
 REM 关闭命令输出
 @echo off  
 set "var1=some hopefully not important string"
-
 echo call myDosFunc
-
 call:myDosFunc 13 14
 echo return myDosFunc: %var1%
 echo %resVal%
