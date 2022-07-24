@@ -9,6 +9,7 @@ echo call myDosFunc
 call:myDosFunc 13 14
 echo return myDosFunc: %var1%
 echo %resVal%
+
 @pause
  goto:eof
  
