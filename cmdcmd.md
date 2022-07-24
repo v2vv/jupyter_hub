@@ -18,7 +18,7 @@ echo %resVal%
  
 REM 定义标签
 :myDosFunc
-echo hi myDosFunc!!!
+echo hi myDosFunc
 ::采用%1~%9来取参数。%0,表示批处理文件本身
 echo %~1 %~2
 ::没有函数返回值定义。可以通过全局变量传递返回值
