@@ -1,6 +1,6 @@
 # cmd 语法
 ```cmd
-RE
+REM zhu
 @echo off 
 set "var1=some hopefully not important string"
 echo call myDosFunc
