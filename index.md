@@ -1,6 +1,6 @@
 # Index
 
 [[system_Call.md]]
-[[delegate]]
+[[delegate]]]
 
 [[事件]]
