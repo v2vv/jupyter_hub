@@ -1,4 +1,4 @@
 {
     "jupyter.jupyterServerType": "local",
-    "gitdoc.enabled": true
+    "gitdoc.enabled": false
 }
